@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697372531 source:d:\iti (9 m)\menofia\1. c\lec5\tasks solutions\lab5sol3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
